@@ -1,0 +1,418 @@
+[
+    {
+        "category_id": 1,
+        "id": 1,
+        "category": "Moral Story",
+        "title": "The Ant and the Grasshopper",
+        "content": "In a field bathed in the warm light of summer, there lived a hardworking ant and a carefree grasshopper. The ant spent each day gathering food and preparing for the upcoming winter, understanding well the importance of foresight and diligence. In contrast, the grasshopper danced and played, basking in the sunshine without a worry for the future. As the ant toiled, the grasshopper mocked her, asking, 'Why waste the beautiful days of summer with such hard work? Come, dance and sing with me instead!' But the ant continued her work, knowing that summer's bounty would not last forever.\n\nWhen winter finally came, the field was blanketed in snow, and food became scarce. The grasshopper, now starving and freezing, regretfully realized he had not prepared for these hard times. Desperate, he went to the ant's home, hoping for mercy and assistance. The ant, seeing the grasshopper's plight, decided to help him, but not without imparting a valuable lesson. She shared her food and shelter, teaching the grasshopper about the virtues of hard work and preparation. From that winter on, the grasshopper changed his ways, never again to take the present for granted. He learned that to enjoy the warmth of summer, one must also be mindful of the colder days ahead.\n\nThe grasshopper's transformation was profound. He began to gather food alongside the ants, sharing stories of his past carelessness as a cautionary tale to the younger insects. He spoke of the ant's generosity and the importance of preparing for the future. The meadow became a place of industrious harmony, as the grasshopper inspired others with his change of heart. Seasons passed, and the community thrived, facing each winter with ample stores, thanks to the combined efforts of all. The grasshopper, once a symbol of folly, became known as a mentor and friend, teaching the virtues of hard work, preparation, and gratitude. The ant, seeing the positive change in her friend, felt a deep sense of pride and fulfillment, knowing she had helped to foster a community of foresight and resilience.\n\nAs years went by, the story of the ant and the grasshopper was told and retold, a timeless reminder of the values that sustain and enrich life. It was a lesson that transcended generations, teaching that preparation and hard work, coupled with compassion and understanding, are the cornerstones of a prosperous and harmonious existence. The meadow flourished, a testament to the enduring wisdom of the ant and the reformed grasshopper, whose friendship became legendary.",
+        "moral": "Preparation and hard work are essential to secure one's future, and that foresight is crucial for facing the challenges ahead."
+    },
+    {
+        "category_id": 1,
+        "id": 2,
+        "category": "Moral Story",
+        "title": "The Boy Who Cried Wolf",
+        "content": "Once upon a time, there was a shepherd boy who tended his sheep in a village. He found life in the pasture very dull and wanted some fun. So, he devised a plan to amuse himself. He ran toward the village shouting, 'Wolf! Wolf!' The villagers came running to help the boy and save the sheep. However, when they arrived, they found no wolf. The boy laughed at the sight of their angry faces. This happened a few more times until one day, a wolf did come. The boy shouted, 'Wolf! Wolf!' as loud as he could, but the villagers ignored him, thinking it was just another prank. The wolf attacked the sheep, and the boy learned a valuable lesson. He realized that lying and deceiving others for fun can have serious consequences.",
+        "moral": "Honesty is the best policy. Lying and deceiving others can lead to loss of trust and serious consequences."
+    },
+    {
+        "category_id": 1,
+        "id": 3,
+        "category": "Moral Story",
+        "title": "The Tortoise and the Hare",
+        "content": "In a forest, there lived a tortoise and a hare. The hare was very proud of his fast running and often laughed at the slow-moving tortoise. One day, the tortoise challenged the hare to a race. The hare accepted the challenge, thinking it would be an easy win. The race began, and the hare quickly took the lead. Confident of winning, he decided to take a nap midway through the race. Meanwhile, the tortoise continued to crawl slowly but steadily. When the hare woke up, he saw the tortoise near the finish line. He ran as fast as he could, but it was too late. The tortoise had already won the race. The hare learned that overconfidence and laziness can lead to failure, while persistence and steady effort lead to success.",
+        "moral": "Slow and steady wins the race. Persistence and steady effort lead to success, while overconfidence and laziness can lead to failure."
+    },
+    {
+        "category_id": 1,
+        "id": 4,
+        "category": "Moral Story",
+        "title": "The Lion and the Mouse",
+        "content": "In a dense forest, a mighty lion lay asleep, his great head resting on his paws. A tiny mouse, running across his mane, woke him. Infuriated, the lion grabbed the mouse and prepared to kill it. 'Please spare me!' begged the mouse, 'One day, I may be able to help you.' Amused, the lion let the mouse go. Days later, the lion found himself trapped in a hunter's net. Unable to free himself, he roared in despair. Hearing the lion's distress, the mouse hurried to the rescue. Using its sharp teeth, the mouse gnawed through the ropes, setting the lion free. Grateful, the lion realized that even the smallest creatures can be of help. He spared the mouse's life, teaching that kindness is never wasted.",
+        "moral": "Kindness and mercy are never wasted. Even the smallest creatures can be of help."
+    },
+    {
+        "category_id": 1,
+        "id": 5,
+        "category": "Moral Story",
+        "title": "The Fox and the Grapes",
+        "content": "One hot summer's day, a fox was strolling through an orchard. Spotting a bunch of juicy grapes hanging from a vine, he decided to have a taste. Jumping up to reach them, the grapes seemed just out of reach. After several attempts, the fox gave up, saying, 'Those grapes are probably sour anyway!' The fox walked away, convincing himself that he didn't want the grapes after all. From this, we learn that it is easy to despise what you cannot have.",
+        "moral": "It is easy to despise what you cannot have."
+    },
+    {
+        "category_id": 1,
+        "id": 6,
+        "category": "Moral Story",
+        "title": "The Wise Old Owl",
+        "content": "In the heart of the forest, there lived a wise old owl. Animals from far and wide would seek his counsel, for he was known to be the wisest creature in the woods. One day, a young rabbit approached the owl seeking advice. 'How can I become wise like you?' asked the rabbit. The owl pondered for a moment before replying, 'Listen more than you speak, observe more than you act, and never underestimate the power of patience.' The rabbit took the owl's words to heart and soon became known for his wisdom. From then on, the animals learned that wisdom comes not just from age, but also from listening, observing, and patience.",
+        "moral": "Wisdom comes from listening, observing, and patience."
+    },
+    {
+        "category_id": 1,
+        "id": 7,
+        "category": "Moral Story",
+        "title": "The Crow and the Pitcher",
+        "content": "A thirsty crow found a pitcher with some water at the bottom. Unable to reach the water with its beak, the crow tried to push the pitcher over, but it was too heavy. After some thought, the crow started dropping pebbles into the pitcher one by one. Gradually, the water level rose, and the crow was able to drink. From this, we learn that intelligence can solve problems that strength cannot.",
+        "moral": "Intelligence can solve problems that strength cannot."
+    },
+    {
+        "category_id": 1,
+        "id": 8,
+        "category": "Moral Story",
+        "title": "The Farmer and His Sons",
+        "content": "A farmer, nearing the end of his life, worried about the future of his sons. He asked them to gather around and presented a bundle of sticks tied together. 'Break it,' he commanded. Each son tried but failed. The farmer then untied the bundle and gave each son a single stick. 'Now, break it,' he said. The sticks snapped easily. The farmer explained, 'Individually, you are weak, but together, you are strong.' From this, we learn the strength of unity.",
+        "moral": "Unity is strength."
+    },
+    {
+        "category_id": 1,
+        "id": 9,
+        "category": "Moral Story",
+        "title": "The Two Frogs",
+        "content": "Two frogs fell into a bucket of cream. At first, they panicked and struggled to stay afloat. One frog soon grew tired and sank, accepting its fate. The other frog, however, kept kicking and struggling, refusing to give up. Its movements churned the cream into butter, and the frog hopped out to safety. From this, we learn that perseverance can turn adversity into opportunity.",
+        "moral": "Perseverance can turn adversity into opportunity."
+    },
+    {
+        "category_id": 1,
+        "id": 10,
+        "category": "Moral Story",
+        "title": "The Dog and Its Reflection",
+        "content": "A dog stole a piece of meat and carried it to a nearby pond. Seeing its reflection in the water, the dog thought it was another dog with a larger piece of meat. Coveting the larger piece, the dog dropped its own meat and lunged at the reflection, losing what it had in the process. From this, we learn the folly of greed.",
+        "moral": "Greed can lead to loss."
+    },
+    {
+        "category_id": 1,
+        "id": 11,
+        "category": "Moral Story",
+        "title": "The Goose That Laid the Golden Eggs",
+        "content": "A poor farmer owned a goose that laid golden eggs. Overcome by greed, the farmer slaughtered the goose, hoping to find a hoard of golden eggs inside. To his dismay, he found nothing but ordinary goose innards. From this, we learn the consequences of greed and impatience.",
+        "moral": "Greed and impatience lead to loss."
+    },
+    {
+        "category_id": 1,
+        "id": 12,
+        "category": "Moral Story",
+        "title": "The Oak Tree and the Reeds",
+        "content": "A mighty oak tree stood tall and proud by a riverbank, mocking the slender reeds nearby for their weakness. When a storm arrived, the oak tree resisted the wind with all its strength but was uprooted and fell. The reeds, however, bent with the wind, surviving the storm. From this, we learn the virtue of flexibility.",
+        "moral": "Flexibility is strength."
+    },
+    {
+        "category_id": 1,
+        "id": 13,
+        "category": "Moral Story",
+        "title": "The Mice and the Weasels",
+        "content": "A group of mice, fearing the threat of weasels, held a council to find a solution. Some suggested hiding in their holes, while others proposed fleeing to another location. One wise mouse suggested putting bells on the weasels to hear them coming. When the weasels heard the jingling, they fled, and the mice lived in peace. From this, we learn the power of ingenuity and cooperation.",
+        "moral": "Ingenuity and cooperation overcome fear."
+    },
+    {
+        "category_id": 1,
+        "id": 14,
+        "category": "Moral Story",
+        "title": "The Boy and the Filberts",
+        "content": "A boy put his hand into a jar of filberts and grasped as many as his fist could hold. But when he tried to pull it out, he found he couldn't do so because he had grasped so many that his hand was stuck. Unwilling to lose his filberts, but unable to withdraw his hand, he burst into tears. A passerby, seeing the boy's plight, said, 'Be satisfied with half the quantity, and you will readily draw out your hand.' From this, we learn the dangers of greed and overreaching.",
+        "moral": "Greed leads to loss."
+    },
+    {
+        "category_id": 1,
+        "id": 15,
+        "category": "Moral Story",
+        "title": "The Ass in the Lion's Skin",
+        "content": "An ass found a lion's skin and put it on, thinking he would be respected and feared. When he brayed, expecting awe, the animals recognized him for what he was and drove him away. From this, we learn that mere appearance does not command respect.",
+        "moral": "True worth is not in appearance."
+    },
+    {
+        "category_id": 1,
+        "id": 16,
+        "category": "Moral Story",
+        "title": "The Farmer and the Viper",
+        "content": "A farmer found a viper freezing in the snow and took pity on it, warming it by his fire. Once revived, the viper bit the farmer, causing his death. As he lay dying, the farmer asked why the viper had repaid his kindness with harm. The viper replied, 'It is my nature to bite.' From this, we learn that kindness to the ungrateful is often met with harm.",
+        "moral": "Kindness to the ungrateful is often met with harm."
+    },
+    {
+        "category_id": 1,
+        "id": 17,
+        "category": "Moral Story",
+        "title": "The Bundle of Sticks",
+        "content": "A father had many sons who were always quarreling. To teach them unity, he gave each son a stick and asked them to break it. None could. He then tied the sticks into a bundle and asked each son to try again. This time, they broke the bundle easily. From this, we learn the strength of unity.",
+        "moral": "Unity is strength."
+    },
+    {
+        "category_id": 1,
+        "id": 18,
+        "category": "Moral Story",
+        "title": "The Lark and Her Young Ones",
+        "content": "A lark made her nest in a field of young wheat. As the wheat grew, so did her young ones. One day, when the wheat was ripe, the farmer came to reap it. The lark pleaded with him to spare her nest, but he ignored her. The lark then took her young ones and flew away. From this, we learn that it is better to avoid danger than to face it.",
+        "moral": "Avoid danger rather than face it."
+    },
+    {
+        "category_id": 1,
+        "id": 19,
+        "category": "Moral Story",
+        "title": "The Fox and the Crane",
+        "content": "A fox invited a crane to dinner but served the food in shallow dishes, which the crane couldn't eat from. When the crane invited the fox in return, she served soup in a long-necked jar, which the fox couldn't reach. From this, we learn the consequences of being inhospitable.",
+        "moral": "One bad turn deserves another."
+    },
+    {
+        "category_id": 1,
+        "id": 20,
+        "category": "Moral Story",
+        "title": "The Ants and the Grasshopper",
+        "content": "As winter approached, an ant busily gathered food for storage. Seeing this, a grasshopper laughed and asked why she worked so hard. When winter came, the grasshopper begged for food, but the ant refused, saying she should have worked when there was plenty. From this, we learn the importance of preparation and hard work.",
+        "moral": "Preparation and hard work are essential."
+    },
+    {
+        "category_id": 1,
+        "id": 21,
+        "category": "Moral Story",
+        "title": "The Shepherd Boy and the Wolf",
+        "content": "A shepherd boy repeatedly fooled villagers by crying 'Wolf!' When a wolf actually came, the villagers didn't believe him, and the wolf ate his sheep. From this, we learn the consequences of lying.",
+        "moral": "Honesty is the best policy."
+    },
+    {
+        "category_id": 1,
+        "id": 19,
+        "category": "Moral Story",
+        "title": "The Fox and the Crane",
+        "content": "A fox invited a crane to dinner but served the food in shallow dishes, which the crane couldn't eat from. When the crane invited the fox in return, she served soup in a long-necked jar, which the fox couldn't reach. From this, we learn the consequences of being inhospitable.",
+        "moral": "One bad turn deserves another."
+    },
+    {
+        "category_id": 1,
+        "id": 20,
+        "category": "Moral Story",
+        "title": "The Ants and the Grasshopper",
+        "content": "As winter approached, an ant busily gathered food for storage. Seeing this, a grasshopper laughed and asked why she worked so hard. When winter came, the grasshopper begged for food, but the ant refused, saying she should have worked when there was plenty. From this, we learn the importance of preparation and hard work.",
+        "moral": "Preparation and hard work are essential."
+    },
+    {
+        "category_id": 1,
+        "id": 21,
+        "category": "Moral Story",
+        "title": "The Shepherd Boy and the Wolf",
+        "content": "A shepherd boy repeatedly fooled villagers by crying 'Wolf!' When a wolf actually came, the villagers didn't believe him, and the wolf ate his sheep. From this, we learn the consequences of lying.",
+        "moral": "Honesty is the best policy."
+    },
+    {
+        "category_id": 1,
+        "id": 22,
+        "category": "Moral Story",
+        "title": "The Greedy Dog",
+        "content": "A dog stole a piece of meat and ran off with it. On his way home, he had to cross a bridge. As he looked into the water, he saw another dog with a piece of meat. Thinking it was another dog with a bigger piece of meat, he growled and barked at it. In doing so, he dropped his piece of meat into the water and lost it. From this, we learn the folly of greed.",
+        "moral": "Greed leads to loss."
+    },
+    {
+        "category_id": 1,
+        "id": 23,
+        "category": "Moral Story",
+        "title": "The Wolf in Sheep's Clothing",
+        "content": "A wolf disguised himself in a sheep's skin and infiltrated a flock. As he was about to snatch a sheep, he was noticed by the shepherd's dog. The wolf narrowly escaped, realizing that appearances can be deceiving.",
+        "moral": "Appearances can be deceiving."
+    },
+    {
+        "category_id": 1,
+        "id": 24,
+        "category": "Moral Story",
+        "title": "The Boy Who Cried Wolf",
+        "content": "A boy repeatedly lied about seeing a wolf to get attention. When a wolf finally came, no one believed him, and the wolf ate his sheep. From this, we learn the consequences of lying.",
+        "moral": "Honesty is the best policy."
+    },
+    {
+        "category_id": 1,
+        "id": 25,
+        "category": "Moral Story",
+        "title": "The Miller, His Son, and the Donkey",
+        "content": "A miller and his son were taking their donkey to the market. They heard people whispering about how foolish they were for walking when they had a donkey to ride. So, the miller put his son on the donkey. Soon they passed a group of old men. One of them scolded the boy for riding while his father walked. Feeling ashamed, the boy got down and let his father ride. Further along, they met a woman who berated the miller for riding while his young son walked. Not knowing what to do, they both decided to ride the donkey. As they crossed a bridge, the donkey got scared and bucked, throwing both the miller and his son into the river. From this, we learn that trying to please everyone often leads to disaster.",
+        "moral": "Trying to please everyone often leads to disaster."
+    },
+    {
+        "category_id": 1,
+        "id": 26,
+        "category": "Moral Story",
+        "title": "The Lion's Share",
+        "content": "A lion and three other animals went hunting together. They successfully hunted a deer and decided to divide it into four equal parts. The lion, being the king of the jungle, claimed the biggest portion for himself, leaving only the scraps for the others. When the other animals protested, the lion growled, reminding them who was in charge. From this, we learn that might does not make right.",
+        "moral": "Might does not make right."
+    },
+    {
+        "category_id": 1,
+        "id": 27,
+        "category": "Moral Story",
+        "title": "The Hare and the Tortoise Race Again",
+        "content": "The hare, having lost to the tortoise in a race, challenged him to another one. This time, the hare ran as fast as he could, leaving the tortoise far behind. Confident of his victory, the hare took a nap midway through the race. Meanwhile, the tortoise kept moving steadily forward. When the hare woke up and realized the tortoise was about to win, it was too late. The tortoise crossed the finish line first, proving that slow and steady wins the race.",
+        "moral": "Slow and steady wins the race."
+    },
+    {
+        "category_id": 1,
+        "id": 25,
+        "category": "Moral Story",
+        "title": "The Miller, His Son, and the Donkey",
+        "content": "A miller and his son were taking their donkey to the market. They heard people whispering about how foolish they were for walking when they had a donkey to ride. So, the miller put his son on the donkey. Soon they passed a group of old men. One of them scolded the boy for riding while his father walked. Feeling ashamed, the boy got down and let his father ride. Further along, they met a woman who berated the miller for riding while his young son walked. Not knowing what to do, they both decided to ride the donkey. As they crossed a bridge, the donkey got scared and bucked, throwing both the miller and his son into the river. From this, we learn that trying to please everyone often leads to disaster.",
+        "moral": "Trying to please everyone often leads to disaster."
+    },
+    {
+        "category_id": 1,
+        "id": 26,
+        "category": "Moral Story",
+        "title": "The Lion's Share",
+        "content": "A lion and three other animals went hunting together. They successfully hunted a deer and decided to divide it into four equal parts. The lion, being the king of the jungle, claimed the biggest portion for himself, leaving only the scraps for the others. When the other animals protested, the lion growled, reminding them who was in charge. From this, we learn that might does not make right.",
+        "moral": "Might does not make right."
+    },
+    {
+        "category_id": 1,
+        "id": 27,
+        "category": "Moral Story",
+        "title": "The Hare and the Tortoise Race Again",
+        "content": "The hare, having lost to the tortoise in a race, challenged him to another one. This time, the hare ran as fast as he could, leaving the tortoise far behind. Confident of his victory, the hare took a nap midway through the race. Meanwhile, the tortoise kept moving steadily forward. When the hare woke up and realized the tortoise was about to win, it was too late. The tortoise crossed the finish line first, proving that slow and steady wins the race.",
+        "moral": "Slow and steady wins the race."
+    },
+    {
+        "category_id": 1,
+        "id": 28,
+        "category": "Moral Story",
+        "title": "The Fox and the Crow",
+        "content": "A crow found a piece of cheese and flew to a nearby branch to enjoy it. A fox, seeing the crow with the cheese, flattered the crow, saying how beautiful and majestic it looked. The crow, pleased with the praise, opened its beak to caw in agreement and dropped the cheese. The fox grabbed it and ran off. From this, we learn not to trust flattery.",
+        "moral": "Beware of flattery."
+    },
+    {
+        "category_id": 1,
+        "id": 29,
+        "category": "Moral Story",
+        "title": "The Town Mouse and the Country Mouse",
+        "content": "A town mouse invited his cousin from the countryside to visit him in the city. The country mouse was amazed by the abundance of food in the town but was also frightened by the many dangers. In the end, the country mouse preferred the simple safety of his home in the countryside over the richness and danger of the city. From this, we learn to appreciate what we have.",
+        "moral": "Better a little in peace than a feast in fear."
+    },
+    {
+        "category_id": 1,
+        "id": 30,
+        "category": "Moral Story",
+        "title": "The Lion and the Mouse",
+        "content": "A lion was awakened from sleep by a mouse running over his face. Rising up angrily, he caught the mouse and was about to kill it when the mouse begged for mercy. 'Please let me go,' said the mouse, 'and one day I will repay you for your kindness.' The lion laughed at the idea that a tiny mouse could help him but let it go. Not long after, the lion was trapped in a hunter's net, and the mouse chewed through the ropes, setting the lion free. From this, we learn that even the smallest creatures can be of help.",
+        "moral": "Kindness is never wasted."
+    },
+    {
+        "category_id": 1,
+        "id": 31,
+        "category": "Moral Story",
+        "title": "The Crow and the Pitcher",
+        "content": "A thirsty crow found a pitcher with a little water at the bottom. Unable to reach the water with its beak, the crow started dropping pebbles into the pitcher one by one. Gradually, the water level rose, and the crow was able to drink. From this, we learn that intelligence can solve problems that strength cannot.",
+        "moral": "Intelligence can solve problems that strength cannot."
+    },
+    {
+        "category_id": 1,
+        "id": 32,
+        "category": "Moral Story",
+        "title": "The Fox and the Grapes",
+        "content": "One hot summer's day, a fox was strolling through an orchard. Spotting a bunch of juicy grapes hanging from a vine, he decided to have a taste. Jumping up to reach them, the grapes seemed just out of reach. After several attempts, the fox gave up, saying, 'Those grapes are probably sour anyway!' The fox walked away, convincing himself that he didn't want the grapes after all. From this, we learn that it is easy to despise what you cannot have.",
+        "moral": "It is easy to despise what you cannot have."
+    },
+    {
+        "category_id": 1,
+        "id": 33,
+        "category": "Moral Story",
+        "title": "The Wise Old Owl",
+        "content": "In the heart of the forest, there lived a wise old owl. Animals from far and wide would seek his counsel, for he was known to be the wisest creature in the woods. One day, a young rabbit approached the owl seeking advice. 'How can I become wise like you?' asked the rabbit. The owl pondered for a moment before replying, 'Listen more than you speak, observe more than you act, and never underestimate the power of patience.' The rabbit took the owl's words to heart and soon became known for his wisdom. From then on, the animals learned that wisdom comes not just from age, but also from listening, observing, and patience.",
+        "moral": "Wisdom comes from listening, observing, and patience."
+    },
+    {
+        "category_id": 1,
+        "id": 34,
+        "category": "Moral Story",
+        "title": "The Tortoise and the Hare",
+        "content": "In a forest, there lived a tortoise and a hare. The hare was very proud of his fast running and often laughed at the slow-moving tortoise. One day, the tortoise challenged the hare to a race. The hare accepted the challenge, thinking it would be an easy win. The race began, and the hare quickly took the lead. Confident of winning, he decided to take a nap midway through the race. Meanwhile, the tortoise continued to crawl slowly but steadily. When the hare woke up, he saw the tortoise near the finish line. He ran as fast as he could, but it was too late. The tortoise had already won the race. The hare learned that overconfidence and laziness can lead to failure, while persistence and steady effort lead to success.",
+        "moral": "Slow and steady wins the race. Persistence and steady effort lead to success, while overconfidence and laziness can lead to failure."
+    },
+    {
+        "category_id": 1,
+        "id": 40,
+        "category": "Moral Story",
+        "title": "The Lion and the Mouse",
+        "content": "A lion was awakened from sleep by a mouse running over his face. Rising up angrily, he caught the mouse and was about to kill it when the mouse begged for mercy. 'Please let me go,' said the mouse, 'and one day I will repay you for your kindness.' The lion laughed at the idea that a tiny mouse could help him but let it go. Not long after, the lion was trapped in a hunter's net, and the mouse chewed through the ropes, setting the lion free. From this, we learn that even the smallest creatures can be of help.",
+        "moral": "Kindness is never wasted."
+    },
+    {
+        "category_id": 1,
+        "id": 41,
+        "category": "Moral Story",
+        "title": "The Dog and Its Reflection",
+        "content": "A dog stole a piece of meat and carried it to a nearby pond. Seeing its reflection in the water, the dog thought it was another dog with a larger piece of meat. Coveting the larger piece, the dog dropped its own meat and lunged at the reflection, losing what it had in the process. From this, we learn the folly of greed.",
+        "moral": "Greed leads to loss."
+    },
+    {
+        "category_id": 1,
+        "id": 42,
+        "category": "Moral Story",
+        "title": "The Boy Who Cried Wolf",
+        "content": "A shepherd boy repeatedly lied about seeing a wolf to get attention. When a wolf finally came, no one believed him, and the wolf ate his sheep. From this, we learn the consequences of lying.",
+        "moral": "Honesty is the best policy."
+    },
+    {
+        "category_id": 1,
+        "id": 43,
+        "category": "Moral Story",
+        "title": "The Goose That Laid the Golden Eggs",
+        "content": "A poor farmer owned a goose that laid golden eggs. Overcome by greed, the farmer slaughtered the goose, hoping to find a hoard of golden eggs inside. To his dismay, he found nothing but ordinary goose innards. From this, we learn the consequences of greed and impatience.",
+        "moral": "Greed and impatience lead to loss."
+    },
+    {
+        "category_id": 1,
+        "id": 44,
+        "category": "Moral Story",
+        "title": "The Ant and the Grasshopper",
+        "content": "As winter approached, an ant busily gathered food for storage. Seeing this, a grasshopper laughed and asked why she worked so hard. When winter came, the grasshopper begged for food, but the ant refused, saying she should have worked when there was plenty. From this, we learn the importance of preparation and hard work.",
+        "moral": "Preparation and hard work are essential."
+    },
+    {
+        "category_id": 1,
+        "id": 45,
+        "category": "Moral Story",
+        "title": "The Woodcutter and the Axe",
+        "content": "A woodcutter accidentally dropped his axe into a river. Distressed, he sat down by the riverbank and lamented his loss. Suddenly, the god of the river appeared and asked what troubled him. The woodcutter explained his predicament, and the god dived into the river, emerging with a golden axe. 'Is this your axe?' asked the god. The woodcutter replied, 'No, mine was just a simple iron axe.' The god dived again and brought out a silver axe. 'Is this your axe?' he asked again. Again, the woodcutter said, 'No.' Finally, the god presented the woodcutter with his own iron axe. Overjoyed, the woodcutter thanked the god. Impressed by his honesty, the god rewarded him with all three axes. From this, we learn the value of honesty and integrity.",
+        "moral": "Honesty and integrity are always rewarded."
+    },
+    {
+        "category_id": 1,
+        "id": 46,
+        "category": "Moral Story",
+        "title": "The Fox and the Stork",
+        "content": "A fox invited a stork for dinner but served soup in a shallow dish. Unable to eat from it, the stork left hungry. Later, the stork invited the fox and served soup in a tall jar with a narrow neck. The fox couldn't reach it and went hungry. From this, we learn that one bad turn deserves another.",
+        "moral": "One bad turn deserves another."
+    },
+    {
+        "category_id": 1,
+        "id": 47,
+        "category": "Moral Story",
+        "title": "The Farmer and the Snake",
+        "content": "A farmer found a snake freezing in the cold and took pity on it, warming it by his fire. Once revived, the snake bit the farmer, causing his death. As he lay dying, the farmer asked why the snake had repaid his kindness with harm. The snake replied, 'It is my nature to bite.' From this, we learn that one should be cautious of those whose nature is harmful.",
+        "moral": "Be cautious of those whose nature is harmful."
+    },
+    {
+        "category_id": 1,
+        "id": 48,
+        "category": "Moral Story",
+        "title": "The Crow and the Snake",
+        "content": "A crow spotted a snake lying on a rock. The snake seemed helpless and asked the crow for help to reach a nearby pond. The crow, knowing the snake's nature, refused. But the snake pleaded, promising not to harm the crow. Reluctantly, the crow carried the snake to the pond. Once there, the snake revealed its true intent and attacked the crow. From this, we learn that trusting the untrustworthy leads to harm.",
+        "moral": "Trusting the untrustworthy leads to harm."
+    },
+    {
+        "category_id": 1,
+        "id": 49,
+        "category": "Moral Story",
+        "title": "The Monkey and the Crocodile",
+        "content": "A monkey lived in a tree by a river. One day, a crocodile approached the monkey, praising the sweetness of the fruits on the other side of the river. Wanting to please his friend, the monkey gave him some fruits. The crocodile's wife loved the fruits and asked for more. The crocodile decided to invite the monkey to his home to get more fruits. The monkey, sensing danger, agreed but asked the crocodile to swim close to the tree so he could jump on his back. On the way, the monkey realized the crocodile's plan and told him that he had left his heart on the tree and needed to go back for it. The crocodile, believing the monkey, swam back, and the monkey escaped. From this, we learn the importance of discernment.",
+        "moral": "Discernment is important in judging true intentions."
+    },
+    {
+        "category_id": 1,
+        "id": 50,
+        "category": "Moral Story",
+        "title": "The Clever Rabbit",
+        "content": "A rabbit lived in a forest surrounded by hungry predators. To outsmart them, the rabbit spread a rumor that the sky was falling. Believing the rumor, the predators fled the forest, leaving the rabbit in peace. From this, we learn that intelligence can overcome strength.",
+        "moral": "Intelligence can overcome strength."
+    }
+]
+
+  //  full json object
+ // id 1 to 50  content contain more than min (700-1000) words every paragraph end create new then start another paragraph add this (\n\n) in Json format
+entire task at once
+
+
+//   JSON object based on the format i provided, containing story contents extended to ensure each content contains more than 2000 words. For demonstration, you adjust the content of one story ("The Ant and the Grasshopper") to meet the word count requirement and follow the structure you requested. Due to the length constraints,you only be able to provide an extended version for one story here. You can apply the same method to extend the rest of the stories as needed.
+ 
