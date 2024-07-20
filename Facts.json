@@ -1,0 +1,353 @@
+[
+       {
+        "category_id": 2,
+        "id": 1,
+        "category": "Facts",
+        "title": "The Speed of Light",
+        "content": "The speed of light in a vacuum is a fundamental physical constant important in many areas of physics. Its exact value is 299,792 kilometers per second (approximately 186,282 miles per second). This constant not only defines the maximum speed at which all energy, matter, and information in the universe can travel but also plays a critical role in theories of physics such as Einstein's theory of relativity, affecting our understanding of time and space",
+       },
+        {
+            "category_id": 2,
+            "id": 2,
+            "category": "Facts",
+            "title": "The Deepest Point in Earth's Oceans",
+            "content": "The Mariana Trench is the deepest part of the world's oceans, located in the western Pacific Ocean. Its deepest point, known as Challenger Deep, reaches approximately 36,070 feet (nearly 11,000 meters) below sea level, a depth at which the pressure is over 1,000 times the standard atmospheric pressure at sea level."
+        },
+        {
+            "category_id": 2,
+            "id": 3,
+            "category": "Facts",
+            "title": "Human DNA and Chimpanzees",
+            "content": "Humans share about 98.8% of their DNA with chimpanzees, making them our closest living relatives in the animal kingdom. This similarity has profound implications for the study of human evolution and genetics."
+        },
+        {
+            "category_id": 2,
+            "id": 4,
+            "category": "Facts",
+            "title": "The Age of the Universe",
+            "content": "The universe is approximately 13.8 billion years old, a measurement derived from observing the cosmic microwave background radiation. This discovery has been crucial in the field of cosmology, providing insight into the universe's origins and its expansive history."
+        },
+        {
+            "category_id": 2,
+            "id": 5,
+            "category": "Facts",
+            "title": "Photosynthesis: Nature's Solar Power",
+            "content": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process not only feeds the plant itself but also ultimately supplies energy to most of the life on Earth."
+           },
+            {
+                "category_id": 2,
+                "id": 6,
+                "category": "Facts",
+                "title": "The Smallest Bone in the Human Body",
+                "content": "The stapes bone in the human ear is the smallest bone in the human body. It is crucial in the process of hearing, helping to transmit sound vibrations from the air to the fluid-filled labyrinth (cochlea)."
+            },
+            {
+                "category_id": 2,
+                "id": 7,
+                "category": "Facts",
+                "title": "The Largest Desert",
+                "content": "The Antarctic Desert is the largest desert in the world, covering an area of about 14 million square kilometers. Despite its ice cover, it qualifies as a desert because of its extremely low humidity and precipitation."
+            },
+            {
+                "category_id": 2,
+                "id": 8,
+                "category": "Facts",
+                "title": "The Tallest Tree",
+                "content": "The tallest known living tree is a coast redwood (Sequoia sempervirens), named Hyperion; it was discovered in a remote area of Redwood National Park, California, in 2006. Hyperion stands at approximately 379.7 feet (115.7 meters) tall."
+            },
+            {
+                "category_id": 2,
+                "id": 9,
+                "category": "Facts",
+                "title": "Quantum Entanglement",
+                "content": "Quantum entanglement is a physical phenomenon that occurs when pairs or groups of particles interact in ways such that the quantum state of each particle cannot be described independently of the state of the others, even when the particles are separated by a large distance."
+            },
+            {
+                "category_id": 2,
+                "id": 10,
+                "category": "Facts",
+                "title": "The Human Population",
+                "content": "As of the early 21st century, the global human population exceeded 7.8 billion people. This figure continues to grow each year, although the rate of growth has begun to slow in many parts of the world."
+            },
+            {
+                "category_id": 2,
+                "id": 11,
+                "category": "Facts",
+                "title": "Languages of the World",
+                "content": "There are approximately 7,000 languages spoken around the world today, with many languages at risk of disappearing. Papua New Guinea is the most linguistically diverse country, with over 850 languages."
+            },
+            {
+                "category_id": 2,
+                "id": 12,
+                "category": "Facts",
+                "title": "The Ocean's Greatest Depth",
+                "content": "The Challenger Deep in the Mariana Trench is the deepest known point in Earth's oceans. Located in the Pacific Ocean, it reaches a depth of approximately 10,984 meters (36,037 feet), deeper than Mount Everest is tall."
+            },
+            {
+                "category_id": 2,
+                "id": 13,
+                "category": "Facts",
+                "title": "The Invention of the Internet",
+                "content": "The concept of the Internet was introduced by computer scientist Vint Cerf and Bob Kahn in the 1970s. It has since evolved from a military and academic research network into a global system of interconnected computer networks."
+            },
+            {
+                "category_id": 2,
+                "id": 14,
+                "category": "Facts",
+                "title": "The Lifecycle of a Star",
+                "content": "A star's life cycle can span billions of years, from its formation from a cloud of dust and gas (nebula) to potentially becoming a black hole or a neutron star after it exhausts its nuclear fuel."
+            },
+            {
+                "category_id": 2,
+                "id": 15,
+                "category": "Facts",
+                "title": "Photosynthesis in Space",
+                "content": "Experiments on the International Space Station have shown that plants can grow in microgravity environments, using artificial light for photosynthesis. This research is crucial for long-duration space travel and colonization."
+            },
+
+            {
+                "category_id": 2,
+                "id": 16,
+                "category": "Facts",
+                "title": "The Concept of Zero",
+                "content": "The concept of zero as a number was first used in India by the mathematician Brahmagupta in 628 CE. This concept revolutionized mathematics and science, enabling the development of algebra, calculus, and the binary number system."
+            },
+            {
+                "category_id": 2,
+                "id": 17,
+                "category": "Facts",
+                "title": "The Longest River",
+                "content": "The Nile River, flowing through northeastern Africa, is the longest river in the world, with a length of about 6,650 kilometers (4,130 miles). It has been a crucial source of life for civilizations in Egypt and Sudan for thousands of years."
+            },
+            {
+                "category_id": 2,
+                "id": 18,
+                "category": "Facts",
+                "title": "The Smallest Country",
+                "content": "Vatican City, an independent city-state enclaved within Rome, Italy, is the smallest country in the world, both by area and population. It covers an area of about 44 hectares (110 acres) and has a population of around 800 people."
+            },
+            {
+                "category_id": 2,
+                "id": 19,
+                "category": "Facts",
+                "title": "Photosynthesis in Space",
+                "content": "Experiments aboard the International Space Station have shown that plants can grow in space and perform photosynthesis under microgravity conditions. This research is crucial for long-duration space travel and future Mars missions."
+            },
+            {
+                "category_id": 2,
+                "id": 20,
+                "category": "Facts",
+                "title": "The Human Genome Project",
+                "content": "The Human Genome Project, completed in 2003, was an international research effort to sequence and map all the genes of the human genome. This project has provided invaluable data for medical research, including the genetic basis of diseases."
+            },
+            {
+                "category_id": 2,
+                "id": 21,
+                "category": "Facts",
+                "title": "The Age of Dinosaurs",
+                "content": "The Mesozoic Era, often referred to as the Age of Dinosaurs, lasted from about 252 to 66 million years ago. This era saw the dominance of dinosaurs on land, along with the rise of birds and mammals towards its end."
+            },
+            {
+                "category_id": 2,
+                "id": 22,
+                "category": "Facts",
+                "title": "The Deepest Artificial Point on Earth",
+                "content": "The Kola Superdeep Borehole is the result of a scientific drilling project of the Soviet Union in the Pechengsky District, on the Kola Peninsula. The project attempted to drill as deep as possible into the Earth's crust. Drilling began on May 24, 1970, and the maximum depth of 12,262 meters (about 7.5 miles) was reached in 1989."
+            },
+            {
+                "category_id": 2,
+                "id": 23,
+                "category": "Facts",
+                "title": "The Concept of Zero",
+                "content": "The concept of zero as a number and not merely a symbol for separation was developed in India by the 9th century AD. The use of zero played a crucial role in mathematics and its development over the centuries."
+            },
+            {
+                "category_id": 2,
+                "id": 24,
+                "category": "Facts",
+                "title": "The Human Genome",
+                "content": "The human genome consists of over 3 billion DNA base pairs and about 20,000 genes on 23 chromosome pairs. Decoding the human genome has opened up new pathways in medicine, including personalized medicine and gene therapy."
+            },
+            {
+                "category_id": 2,
+                "id": 25,
+                "category": "Facts",
+                "title": "The Theory of Plate Tectonics",
+                "content": "The theory of plate tectonics, formalized in the 1960s, describes the large-scale motion of seven large plates and many smaller plates of the Earth's lithosphere. This theory explains the movement of the continents, as well as the occurrence of earthquakes, volcanic activity, and the formation of mountain ranges."
+            },
+            {
+                "category_id": 2,
+                "id": 26,
+                "category": "Facts",
+                "title": "The Lifecycle of Stars",
+                "content": "Stars, like our sun, go through a life cycle that spans billions of years, from their birth in nebulae to their eventual fate as white dwarfs, neutron stars, or black holes, depending on their initial mass."
+            },
+            {
+                "category_id": 2,
+                "id": 27,
+                "category": "Facts",
+                "title": "The Deepest Artificial Point on Earth",
+                "content": "The Kola Superdeep Borehole in Russia is the deepest artificial point on Earth. Drilling began in 1970, and the maximum depth reached was 12,262 meters (about 40,230 feet) in 1989."
+            },
+            {
+                "category_id": 2,
+                "id": 28,
+                "category": "Facts",
+                "title": "The Great Barrier Reef",
+                "content": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It is composed of over 2,900 individual reefs and 900 islands stretching over 2,300 kilometers (1,400 miles)."
+            },
+            {
+                "category_id": 2,
+                "id": 29,
+                "category": "Facts",
+                "title": "The Age of Dinosaurs",
+                "content": "The Mesozoic Era, often called the Age of Dinosaurs, lasted about 180 million years, from approximately 252 to 66 million years ago. This era saw the rise and fall of many dinosaur species."
+            },
+            {
+                "category_id": 2,
+                "id": 30,
+                "category": "Facts",
+                "title": "The Human Genome",
+                "content": "The human genome is made up of over 3 billion DNA base pairs and was first fully sequenced in 2003. Understanding the genome allows scientists to discover the functions of genes and their roles in health and disease."
+            },
+            {
+                "category_id": 2,
+                "id": 31,
+                "category": "Facts",
+                "title": "The Longest River",
+                "content": "The Nile River is traditionally considered the longest river in the world, with a length of about 6,650 kilometers (4,130 miles). It flows northward through northeastern Africa, draining into the Mediterranean Sea."
+            },
+            {
+                "category_id": 2,
+                "id": 32,
+                "category": "Facts",
+                "title": "The Concept of Zero",
+                "content": "The concept of zero as a number was first used in India by the mathematician Brahmagupta in 628 AD. It represented a significant leap forward in mathematics, allowing for the development of algebra, calculus, and the binary number system."
+            },
+            {
+                "category_id": 2,
+                "id": 33,
+                "category": "Facts",
+                "title": "The Internet",
+                "content": "The Internet was developed in the late 20th century and has since transformed the global economy, communication, education, and entertainment. Today, it connects billions of devices worldwide."
+            },
+            {
+                "category_id": 2,
+                "id": 34,
+                "category": "Facts",
+                "title": "Photosynthesis in Space",
+                "content": "Experiments on the International Space Station have demonstrated that photosynthesis can occur in space, paving the way for the future of space travel and the possibility of growing food in space."
+            },
+            {
+                "category_id": 2,
+                "id": 35,
+                "category": "Facts",
+                "title": "The World's Smallest Country",
+                "content": "Vatican City is the smallest country in the world, both by area and population. It is an independent city-state enclaved within Rome, Italy, and is the spiritual and administrative center of the Roman Catholic Church."
+            },
+            {
+                "category_id": 2,
+                "id": 36,
+                "category": "Facts",
+                "title": "Discovery of Insulin",
+                "content": "Insulin, crucial for treating diabetes, was discovered in 1921 by Frederick Banting and Charles Best. This breakthrough has saved countless lives worldwide and is considered one of the most important medical discoveries of the 20th century."
+            },
+            {
+                "category_id": 2,
+                "id": 37,
+                "category": "Facts",
+                "title": "The Oceans' Hidden Mountains",
+                "content": "The Earth's oceans hide vast mountain ranges, such as the Mid-Atlantic Ridge, which is longer than the Andes, Himalayas, and Rocky Mountains combined. These underwater mountains play a crucial role in regulating global climate and ocean currents."
+            },
+            {
+                "category_id": 2,
+                "id": 38,
+                "category": "Facts",
+                "title": "The Power of Lightning",
+                "content": "A single lightning strike can generate temperatures exceeding 27,000°C (48,632°F), hotter than the surface of the Sun. Lightning strikes the Earth about 100 times every second, transferring energy and influencing weather patterns."
+            },
+            {
+                "category_id": 2,
+                "id": 39,
+                "category": "Facts",
+                "title": "The Mystery of Dark Matter",
+                "content": "Dark matter makes up about 85% of the total mass of the universe, yet it does not emit, absorb, or reflect light, making it invisible and detectable only through its gravitational effects on visible matter."
+            },
+            {
+                "category_id": 2,
+                "id": 40,
+                "category": "Facts",
+                "title": "The Complexity of the Human Eye",
+                "content": "The human eye can distinguish approximately 10 million different colors and is capable of detecting a single photon of light. This level of sensitivity and complexity allows humans to have a rich visual experience of the world."
+            },
+            {
+                "category_id": 2,
+                "id": 41,
+                "category": "Facts",
+                "title": "Deep Sea Bioluminescence",
+                "content": "Many deep-sea creatures produce their own light, a phenomenon known as bioluminescence. This adaptation helps them attract prey, communicate, and deter predators in the pitch-black environment of the deep ocean."
+            },
+            {
+                "category_id": 2,
+                "id": 42,
+                "category": "Facts",
+                "title": "The Oldest Continuous Civilization",
+                "content": "China is considered to have the world's oldest continuous civilization, with historical records dating back over 4,000 years. It has made vast contributions to the world, including the invention of paper, the compass, gunpowder, and printing technology."
+            },
+            {
+                "category_id": 2,
+                "id": 43,
+                "category": "Facts",
+                "title": "The Migration of Monarch Butterflies",
+                "content": "Monarch butterflies undertake a massive migration of up to 3,000 miles each year. They travel from North America to central Mexico for the winter, a journey that spans the life cycles of four generations of the butterfly."
+            },
+            {
+                "category_id": 2,
+                "id": 44,
+                "category": "Facts",
+                "title": "The Concept of Time Zones",
+                "content": "The world is divided into 24 time zones, established in 1884 to standardize time worldwide. This system allows the world to operate on the same time measurement system, despite the Earth's rotation."
+            },
+            {
+                "category_id": 2,
+                "id": 45,
+                "category": "Facts",
+                "title": "The Power of the Human Brain",
+                "content": "The human brain is capable of approximately 10^16 processes per second, making it far more powerful than any computer currently in existence. Its capabilities include problem-solving, emotion regulation, memory, and much more."
+            },
+            {
+                "category_id": 2,
+                "id": 46,
+                "category": "Facts",
+                "title": "The Migration of Monarch Butterflies",
+                "content": "Monarch butterflies undergo a remarkable migration of up to 3,000 miles from North America to central Mexico every year. This journey spans multiple generations of butterflies, each playing a role in the longest insect migration on Earth."
+            },
+            {
+                "category_id": 2,
+                "id": 47,
+                "category": "Facts",
+                "title": "The Depth of the Mariana Trench",
+                "content": "The Mariana Trench is the deepest part of the world's oceans, reaching a depth of nearly 11,000 meters (about 36,000 feet). It is located in the western Pacific Ocean, east of the Mariana Islands."
+            },
+            {
+                "category_id": 2,
+                "id": 48,
+                "category": "Facts",
+                "title": "The Age of the Earth",
+                "content": "The Earth is estimated to be 4.54 billion years old, based on evidence from radiometric age-dating of meteorite material and is consistent with the ages of the oldest-known terrestrial and lunar samples."
+            },
+            {
+                "category_id": 2,
+                "id": 49,
+                "category": "Facts",
+                "title": "Water's Unique Properties",
+                "content": "Water is the only natural substance found in all three physical states – liquid, solid (ice), and gas (steam) – at the temperatures naturally occurring on Earth. Its unique properties support life in various ways."
+            },
+            {
+                "category_id": 2,
+                "id": 50,
+                "category": "Facts",
+                "title": "The Speed of a Computer Processor",
+                "content": "The speed of modern computer processors is typically measured in gigahertz (GHz), with many current processors operating in the range of 1 to 5 GHz. This measurement indicates the number of cycles a processor can perform per second."
+            }
+]
