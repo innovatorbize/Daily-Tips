@@ -409,10 +409,3 @@
     }
 ]
 
-  //  full json object
- // id 1 to 50  content contain more than min (700-1000) words every paragraph end create new then start another paragraph add this (\n\n) in Json format
-entire task at once
-
-
-//   JSON object based on the format i provided, containing story contents extended to ensure each content contains more than 2000 words. For demonstration, you adjust the content of one story ("The Ant and the Grasshopper") to meet the word count requirement and follow the structure you requested. Due to the length constraints,you only be able to provide an extended version for one story here. You can apply the same method to extend the rest of the stories as needed.
- 
